@@ -2,6 +2,7 @@
 
 ## 🔍 Project Overview
 HitSense explores how musical features like danceability, energy, tempo, and valence correlate with song popularity on Spotify. We use data-driven insights and machine learning models to predict popularity scores and guide music-related decisions.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/HitSense_EDA_and_Model_Full_FINAL.ipynb)
 
 ## 📁 Files
 - `HitSense_EDA_and_Model_FULL_FINAL_WITH_CODE.ipynb`: Final notebook with all models, plots, evaluations, and commentary.
