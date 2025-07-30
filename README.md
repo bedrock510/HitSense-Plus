@@ -21,7 +21,8 @@ HitSense explores how musical features like danceability, energy, tempo, and val
 - Final comparison table and chart
 
 ## 🚀 How to Run
-1. Open this notebook in [Google Colab] [!(https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bedrock510/HitSense-Plus/blob/main/HitSense_EDA_and_Model_FULL_FINAL_SAFE_EVAL.ipynb)
+1. Open this notebook in [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bedrock510/HitSense-Plus/blob/main/HitSense_EDA_and_Model_FULL_FINAL_SAFE_EVAL.ipynb)
+
 
 2. Run each cell from top to bottom
 3. Examine outputs and final comparison
