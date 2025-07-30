@@ -1,6 +1,6 @@
 # 🎧 HitSense: Predicting Song Popularity from Spotify Audio Features
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bedrock510/HitSense-Plus/blob/main/HitSense_EDA_and_Model_Full_FINAL.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bedrock510/HitSense-Plus/blob/main/hitsense_github_ready_with_readme/HitSense_EDA_and_Model_Full_FINAL.ipynb)
 
 ## 🔍 Project Overview
 
